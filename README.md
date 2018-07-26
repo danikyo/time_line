@@ -1,2 +1,2 @@
-# time_line
+# Time Line
 a time line created with Materialize
